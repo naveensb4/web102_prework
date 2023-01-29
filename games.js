@@ -1,4 +1,5 @@
 // Image credits: Kickstarter
+//new
 const games = ` [
   {
     "name": "Heroes Of Mythic Americas",

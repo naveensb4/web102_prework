@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![new](https://user-images.githubusercontent.com/96276960/215345530-8f3017d9-2f6c-4355-ad1b-1175f129062c.gif)
+![final](https://user-images.githubusercontent.com/96276960/215347831-d82e1fa1-a9e6-4f41-a050-fa7782e6b833.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with gifcap(https://gifcap.dev/)   
